@@ -1,4 +1,4 @@
-![alt text](https://ibb.co/mYLps7)
+![alt text](https://image.ibb.co/j7iW5S/projectmanager.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
