@@ -1,4 +1,4 @@
-![alt text](https://drive.google.com/file/d/1Q3xXNV9Ip-n-lM5zYA9pQ4cBSFSd0e7K/view?usp=sharing)
+![alt text](https://ibb.co/mYLps7)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
